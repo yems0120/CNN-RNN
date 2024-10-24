@@ -8,7 +8,7 @@
 - numpy 1.22.0
 - and other necessary libs
 ## Datasets
-- N-CMAPSS[Turbofan Engine Degradation Simulation-2](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
+- [Turbofan Engine Degradation Simulation-2](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
 ## Pakages
 - `data` needs loading the Datasets in above links
 - `datasets` contians the pre-processing process for the data
